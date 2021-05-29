@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\bin\Debug\Awful.exe.config
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\bin\Debug\Awful.exe
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\bin\Debug\Awful.pdb
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\obj\Debug\Awful.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\obj\Debug\Awful.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\obj\Debug\Awful.exe
+C:\Users\user\Desktop\Новая папка (5)\Awful\Awful\obj\Debug\Awful.pdb

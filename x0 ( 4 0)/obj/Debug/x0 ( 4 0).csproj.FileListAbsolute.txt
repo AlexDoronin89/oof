@@ -1,0 +1,7 @@
+D:\ProjectVisal\x0\x0 ( 4 0)\bin\Debug\x0 ( 4 0).exe.config
+D:\ProjectVisal\x0\x0 ( 4 0)\bin\Debug\x0 ( 4 0).exe
+D:\ProjectVisal\x0\x0 ( 4 0)\bin\Debug\x0 ( 4 0).pdb
+D:\ProjectVisal\x0\x0 ( 4 0)\obj\Debug\x0 ( 4 0).csproj.CoreCompileInputs.cache
+D:\ProjectVisal\x0\x0 ( 4 0)\obj\Debug\x0 ( 4 0).exe
+D:\ProjectVisal\x0\x0 ( 4 0)\obj\Debug\x0 ( 4 0).pdb
+D:\ProjectVisal\x0\x0 ( 4 0)\obj\Debug\x0 ( 4 0).csprojAssemblyReference.cache
